@@ -1,2 +1,2 @@
 # git-github
-This is for project which we can add
+This is for project in which I can add
